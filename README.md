@@ -4,14 +4,14 @@ A video-processing and advance scouting workflow tool built for MiLB Video & Tec
 
 ---
 
-## 🚀 Live Links & Project Demo
+##  Live Links & Project Demo
 
 - **Live Dashboard:** [Streamlit App](baseball-video-scouting-5d9kblmwf6pamkrvzoxq3m.streamlit.app)
-- **GitHub Repository:** [https://github.com/YOUR_GITHUB_USERNAME/video-scouting](https://github.com/YOUR_GITHUB_USERNAME/video-scouting)
+- **GitHub Repository:** [https://github.com/krose1013/baseball-video-scouting.git](https://github.com/krose1013/baseball-video-scouting.git)
 
 ---
 
-## 📌 Project Architecture & Key Features
+##  Project Architecture & Key Features
 
 ### 1. Advance Scouting One-Pager
 * **Pitch Arsenal Metrics:** Calculates usage rates, average velocity, and max velocity across pitch types.
@@ -27,7 +27,7 @@ A video-processing and advance scouting workflow tool built for MiLB Video & Tec
 
 ---
 
-## ⚠️ Data Sources & Production Readiness
+##  Data Sources & Production Readiness
 
 > **Note on Data Feed:**
 > The current version of this application runs on simulated practice player data (`mock_data.py`) to demonstrate the underlying data pipeline, video clipper, and UI mechanics. 
@@ -36,7 +36,7 @@ A video-processing and advance scouting workflow tool built for MiLB Video & Tec
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **UI / Framework:** [Streamlit](https://streamlit.io/)
 * **Video Engine:** FFmpeg CLI & Python `subprocess`
@@ -47,7 +47,7 @@ A video-processing and advance scouting workflow tool built for MiLB Video & Tec
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 video-scouting/
